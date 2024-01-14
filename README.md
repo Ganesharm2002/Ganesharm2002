@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ganesharm2002
+- 👋 Hi, I’m Ganesharm Verma(Goblin)
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning javascript
 - 💞️ I’m looking to collaborate on ...
